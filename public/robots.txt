@@ -1,0 +1,6 @@
+# robots.txt
+User-agent: *
+Disallow: /bin/
+Disallow: /proxy
+Sitemap: https://blog.felzx.cn/sitemap.xml
+Sitemap: https://blog.felzx.cn/archive

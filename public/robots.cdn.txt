@@ -1,0 +1,5 @@
+# robots.txt for cdn domain
+User-agent: *
+Disallow: /
+Sitemap: https://blog.felzx.cn/sitemap.xml
+Sitemap: https://blog.felzx.cn/archive
